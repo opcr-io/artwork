@@ -1,9 +1,9 @@
 ## Open Policy Containers artwork
 
 This directory contains artwork for Open Policy Containers (OPCR). We have five layouts:
-- logo
+- logo only
 - horizontal with "opcr" mark
-- horizontal with "opcr" mark, 170x62 aspect (with padding)
+- stacked with "opcr" mark
 - horizontal with "Open Policy Containers" mark
 - stacked with "Open Policy Containers" mark
 
@@ -24,13 +24,13 @@ Inside each layout's directory, there are assets specifically prepared for light
     </tr>
     <tr>
         <td>OPCR - Horizontal</td>
-        <td><img src="./opcr/opcr.png" height="100"></td>
-        <td><img src="./opcr/opcr-dark.png" height="100"></td>
+        <td><img src="./opcr-horizontal/opcr-color-horizontal.png" height="100"></td>
+        <td><img src="./opcr-horizontal/opcr-color-horizontal-dark.png" height="100"></td>
     </tr>
     <tr>
-        <td>OPCR - Horizontal 170x62</td>
-        <td><img src="./opcr/opcr-170x62.png" height="100"></td>
-        <td><img src="./opcr/opcr-170x62-dark.png" height="100"></td>
+        <td>OPCR - Stacked</td>
+        <td><img src="./opcr-stacked/opcr-color-stacked.png" height="100"></td>
+        <td><img src="./opcr-stacked/opcr-color-stacked-dark.png" height="100"></td>
     </tr>
     <tr>
         <td>Open Policy Containers - Horizontal</td>
@@ -59,13 +59,13 @@ Inside each layout's directory, there are assets specifically prepared for light
     </tr>
     <tr>
         <td>OPCR - Horizontal</td>
-        <td><img src="./opcr/opcr.svg" height="100"></td>
-        <td><img src="./opcr/opcr-dark.svg" height="100"></td>
+        <td><img src="./opcr-horizontal/opcr-color-horizontal.svg" height="100"></td>
+        <td><img src="./opcr-horizontal/opcr-color-horizontal-dark.svg" height="100"></td>
     </tr>
     <tr>
-        <td>OPCR - Horizontal 170x62</td>
-        <td><img src="./opcr/opcr-170x62.svg" height="100"></td>
-        <td><img src="./opcr/opcr-170x62-dark.svg" height="100"></td>
+        <td>OPCR - Stacked</td>
+        <td><img src="./opcr-stacked/opcr-color-stacked.svg" height="100"></td>
+        <td><img src="./opcr-stacked/opcr-color-stacked-dark.svg" height="100"></td>
     </tr>
     <tr>
         <td>Open Policy Containers - Horizontal</td>
