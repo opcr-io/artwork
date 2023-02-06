@@ -34,6 +34,11 @@ Inside each layout's directory, there are assets specifically prepared for light
         <td><img src="./opcr-stacked/opcr-color-stacked-dark.png" height="100"></td>
     </tr>
     <tr>
+        <td>OPCR - Stacked (Bold)</td>
+        <td><img src="./opcr-stacked/opcr-color-stacked-bold.png" height="100"></td>
+        <td><img src="./opcr-stacked/opcr-color-stacked-bold-dark.png" height="100"></td>
+    </tr>
+    <tr>
         <td>Open Policy Containers - Horizontal</td>
         <td><img src="./horizontal/opcr-horizontal.png" height="100"></td>
         <td><img src="./horizontal/opcr-horizontal-dark.png" height="100"></td>
